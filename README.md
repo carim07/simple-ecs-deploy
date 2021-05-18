@@ -1,13 +1,13 @@
 # simple-ecs-deploy
 [Drone](https://drone.io) plugin to deploy to ECS.
 
-To learn more about Drone plugins, visit [this link](http://plugins.drone.io/). To learn more about Drone in general, visit [their documentation](https://readme.drone.io/)
+To learn more about Drone plugins, visit [this link](http://plugins.drone.io/). To learn more about Drone in general, visit [their documentation](https://readme.drone.io/).
 
 ## Usage
 
 To be used in a Drone Docker pipeline, as described in [here](https://readme.drone.io/pipeline/docker/syntax/plugins/). 
 
-A very simple example can be found [here](https://github.com/carim07/tan-infrastructure/blob/main/drone-pipelines/lessonbuilder-dev.yml)
+A very simple example can be found [here](https://github.com/carim07/tan-infrastructure/blob/main/drone-pipelines/lessonbuilder-dev.yml).
 
 ## To Do
 
